@@ -1,3 +1,10 @@
+/* Image formatting */
+.img-about {
+    width: 40%;
+    float: left;
+    margin-right: 10px;
+}
+
 /* Text block for all images */
 .text-block {
     position: relative;
