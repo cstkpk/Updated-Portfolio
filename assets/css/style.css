@@ -1,0 +1,9 @@
+/* Text block for all images */
+.text-block {
+    position: relative;
+    bottom: 60px;
+    background-color: #4aaaa5;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
