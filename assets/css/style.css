@@ -12,3 +12,17 @@
     text-align: center;
     padding: 15px;
 }
+
+/* Media tag for phone */
+@media screen and (max-width: 640px) {
+    .img-about {
+        width: 100%;
+        float: none;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .index-text {
+        text-align: justify;
+    }
+}
