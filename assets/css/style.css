@@ -4,6 +4,10 @@
     float: left;
     margin-right: 10px;
 }
+ /* Formatting index text */
+.index-text {
+    font-size: 18px;
+}
 
 /* Text block for all images */
 .text-block {
@@ -12,6 +16,12 @@
     text-align: center;
     padding: 15px;
 }
+
+/* Equivalent CSS code as the viewport meta tag in the HTML -- to be future-proof! */
+@viewport {
+    width: device-width;
+    zoom: 1.0;
+  }
 
 /* Media tag for phone */
 @media screen and (max-width: 640px) {
